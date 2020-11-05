@@ -1,0 +1,74 @@
+[
+    {
+        "current": "01.2020",
+        "valeur_constatee": 1.0,
+        "valeur_reference": 0.58,
+        "seuil_alerte": 0.95
+    },
+    {
+        "current": "02.2020",
+        "valeur_constatee": 0.98,
+        "valeur_reference": 0.88,
+        "seuil_alerte": 0.99
+    },
+    {
+        "current": "03.2020",
+        "valeur_constatee": 0.88,
+        "valeur_reference": 0.78,
+        "seuil_alerte": 0.99
+    },
+    {
+        "current": "04.2020",
+        "valeur_constatee": 0.73,
+        "valeur_reference": 0.98,
+        "seuil_alerte": 0.99
+    },
+    {
+        "current": "05.2020",
+        "valeur_constatee": 0.98,
+        "valeur_reference": 0.68,
+        "seuil_alerte": 0.99
+    },
+    {
+        "current": "06.2020",
+        "valeur_constatee": 0.62,
+        "valeur_reference": 0.28,
+        "seuil_alerte": 0.99
+    },
+    {
+        "current": "07.2020",
+        "valeur_constatee": 0.85,
+        "valeur_reference": 0.88,
+        "seuil_alerte": 0.99
+    },
+    {
+        "current": "08.2020",
+        "valeur_constatee": 0.9,
+        "valeur_reference": 0.99,
+        "seuil_alerte": 0.89
+    },
+    {
+        "current": "09.2020",
+        "valeur_constatee": 0.42,
+        "valeur_reference": 0.78,
+        "seuil_alerte": 0.89
+    },
+    {
+        "current": "10.2020",
+        "valeur_constatee": 0.98,
+        "valeur_reference": 0.58,
+        "seuil_alerte": 0.99
+    },
+    {
+        "current": "11.2020",
+        "valeur_constatee": 0.75,
+        "valeur_reference": 0.48,
+        "seuil_alerte": 0.89
+    },
+    {
+        "current": "12.2020",
+        "valeur_constatee": 0.88,
+        "valeur_reference": 0.38,
+        "seuil_alerte": 0.79
+    }
+]
