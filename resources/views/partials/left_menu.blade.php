@@ -1,3 +1,4 @@
+@if (Auth::user())
 <nav class="sidebar navbar-expand-md  bg-danger pl-2 h-100 text-center">
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#left-menu"
@@ -69,3 +70,4 @@
         </ul>
     </div>
 </nav>
+@endif
